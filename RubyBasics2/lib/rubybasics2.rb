@@ -3,6 +3,8 @@
 # Part I
 def hello(name)
   # YOUR CODE HERE
+  str = "Hello, " + name
+  return str
 end
 
 # Part II
