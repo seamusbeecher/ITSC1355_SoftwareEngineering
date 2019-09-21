@@ -9,9 +9,11 @@ class Dessert
   end
   def healthy?
     # your code here
+    @calories < 200
   end
   def delicious?
     # your code here
+    true
   end
 end
 
